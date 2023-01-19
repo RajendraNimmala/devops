@@ -2,3 +2,4 @@ This file is created for git training.
 Java Home provides training on devops.
 Java Home also provide trainings on snowflake.
 We are starting webinars on devops soon.
+Tomorrow we have demo on aws migration.
