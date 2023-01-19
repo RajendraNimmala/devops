@@ -3,4 +3,8 @@ Java Home provides training on devops.
 Java Home also provide trainings on snowflake.
 We are starting webinars on devops soon.
 Tomorrow we have demo on aws migration.
+<<<<<<< HEAD
 We will learn kubernetes in this training.
+=======
+This is added in remote.
+>>>>>>> 82d092e9f6c5c54adf2b34ac3c65fa3ff7aa296c
